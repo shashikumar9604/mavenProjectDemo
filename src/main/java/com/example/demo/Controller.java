@@ -8,7 +8,7 @@ public class Controller {
 	
 	@GetMapping("/welcome")
 	public String callMethosApi() {
-		return "Welcome to Java Learning shashi updated for webhook test";
+		return "Welcome to Java Learning shashi updated for webhook test demo";
 	}
 
 }
